@@ -1,0 +1,61 @@
+Location_ID,Location_Name,Vehicle_Count,Peak_Hour,Day
+1,Area 1,202,9 AM,Monday
+2,Area 2,535,6 PM,Thurday
+3,Area 3,960,8 AM,Monday
+4,Area 4,370,6 PM,Thurday
+5,Area 5,206,9 AM,Tuesday
+6,Area 6,171,9 AM,Monday
+7,Area 7,800,8 AM,Friday
+8,Area 8,120,9 AM,Wednesday
+9,Area 9,714,7 PM ,Thurday
+10,Area 10,221,9 AM,Wednesday
+11,Area 11,566,6 PM,Wednesday
+12,Area 12,314,6 PM,Monday
+13,Area 13,430,6 PM,Wednesday
+14,Area 14,558,6 PM,Friday
+15,Area 15,187,7 PM ,Wednesday
+16,Area 16,472,5 PM,Monday
+17,Area 17,199,8 AM,Friday
+18,Area 18,971,6 PM,Tuesday
+19,Area 19,763,9 AM,Wednesday
+20,Area 20,230,6 PM,Monday
+21,Area 21,761,9 AM,Tuesday
+22,Area 22,408,9 AM,Tuesday
+23,Area 23,869,6 PM,Thurday
+24,Area 24,443,7 PM ,Friday
+25,Area 25,591,9 AM,Wednesday
+26,Area 26,513,9 AM,Monday
+27,Area 27,905,6 PM,Thurday
+28,Area 28,485,9 AM,Friday
+29,Area 29,291,9 AM,Thurday
+30,Area 30,376,6 PM,Friday
+31,Area 31,260,6 PM,Friday
+32,Area 32,559,8 AM,Wednesday
+33,Area 33,413,7 PM ,Friday
+34,Area 34,121,7 PM ,Thurday
+35,Area 35,352,9 AM,Friday
+36,Area 36,847,7 PM ,Wednesday
+37,Area 37,956,9 AM,Wednesday
+38,Area 38,660,8 AM,Thurday
+39,Area 39,574,6 PM,Tuesday
+40,Area 40,158,6 PM,Tuesday
+41,Area 41,610,6 PM,Friday
+42,Area 42,781,7 PM ,Monday
+43,Area 43,575,8 AM,Friday
+44,Area 44,799,7 PM ,Thurday
+45,Area 45,882,7 PM ,Thurday
+46,Area 46,289,8 AM,Thurday
+47,Area 47,786,8 AM,Thurday
+48,Area 48,662,8 AM,Thurday
+49,Area 49,975,8 AM,Wednesday
+50,Area 50,666,6 PM,Tuesday
+51,Area 51,343,5 PM,Thurday
+52,Area 52,931,5 PM,Monday
+53,Area 53,604,8 AM,Monday
+54,Area 54,230,5 PM,Monday
+55,Area 55,584,5 PM,Monday
+56,Area 56,918,8 AM,Wednesday
+57,Area 57,746,5 PM,Monday
+58,Area 58,120,7 PM ,Thurday
+59,Area 59,940,9 AM,Friday
+60,Area 60,266,9 AM,Monday
